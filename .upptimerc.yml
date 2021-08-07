@@ -5,12 +5,14 @@ repo: monitoring # The name of this repository
 sites:
   - name: Main Website
     url: https://skiddle.id
-  - name: API Server
-    url: https://api.skiddle.id
+  - name: Plex Media Server
+    url: https://25950.skiddle.id
   - name: Arcestia Web
     url: https://arcestia.com
   - name: Arcestia Medium
     url: https://catatan.arcestia.com
+  - name: Socialize (Mastodon Instance)
+    url: https://socialize.cyou    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +20,9 @@ status-website:
   cname: status.skiddle.id
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Skiddle-ID
+  introTitle: "**Skiddle-ID** is Formerly known as Arcestia. "
+  introMessage: This page for Monitoring status of all Skiddle-ID Network.
   navbar:
     - title: Status
       href: /
