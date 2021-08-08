@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-07": 85
+      "2021-08-08": 16,
+      "2021-08-07": 89
     }
   },
   {
@@ -25,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/25950.skiddle.id",
     "slug": "plex-media-server",
     "status": "up",
-    "uptime": "69.32%",
-    "uptimeDay": "69.32%",
-    "uptimeWeek": "69.32%",
-    "uptimeMonth": "69.32%",
-    "uptimeYear": "69.32%",
+    "uptime": "77.14%",
+    "uptimeDay": "77.14%",
+    "uptimeWeek": "77.14%",
+    "uptimeMonth": "77.14%",
+    "uptimeYear": "77.14%",
     "time": 857,
     "timeDay": 857,
     "timeWeek": 857,
