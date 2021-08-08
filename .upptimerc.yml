@@ -9,10 +9,6 @@ sites:
     url: https://25950.skiddle.id
     check: "tcp-ping"
     port: 80
-  - name: Arcestia Web
-    url: https://arcestia.com
-  - name: Arcestia Medium
-    url: https://catatan.arcestia.com
   - name: Socialize (Mastodon Instance)
     url: https://socialize.cyou    
 
