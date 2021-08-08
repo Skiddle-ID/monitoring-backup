@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-08": 42,
+      "2021-08-08": 1125,
       "2021-08-07": 89
     }
   },
@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/25950.skiddle.id",
     "slug": "plex-media-server",
     "status": "up",
-    "uptime": "82.55%",
-    "uptimeDay": "82.55%",
-    "uptimeWeek": "82.55%",
-    "uptimeMonth": "82.55%",
-    "uptimeYear": "82.55%",
+    "uptime": "98.40%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 857,
     "timeDay": 857,
     "timeWeek": 857,
@@ -38,46 +38,6 @@
     "timeYear": 857,
     "dailyMinutesDown": {
       "2021-08-07": 19
-    }
-  },
-  {
-    "name": "Arcestia Web",
-    "url": "https://arcestia.com",
-    "icon": "https://favicons.githubusercontent.com/arcestia.com",
-    "slug": "arcestia-web",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
-    "dailyMinutesDown": {
-      "2021-08-08": 0
-    }
-  },
-  {
-    "name": "Arcestia Medium",
-    "url": "https://catatan.arcestia.com",
-    "icon": "https://favicons.githubusercontent.com/catatan.arcestia.com",
-    "slug": "arcestia-medium",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1205,
-    "timeDay": 1205,
-    "timeWeek": 1205,
-    "timeMonth": 1205,
-    "timeYear": 1205,
-    "dailyMinutesDown": {
-      "2021-08-08": 0
     }
   },
   {
@@ -91,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1036,
-    "timeWeek": 1036,
-    "timeMonth": 1036,
-    "timeYear": 1036,
+    "time": 1028,
+    "timeDay": 1028,
+    "timeWeek": 1028,
+    "timeMonth": 1028,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   }
 ]
