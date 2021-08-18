@@ -7,7 +7,6 @@ sites:
     url: https://skiddle.id
   - name: Plex Media Server
     url: https://25950.skiddle.id
-    check: "tcp-ping"
     port: 80
   - name: Socialize (Mastodon Instance)
     url: https://socialize.cyou    
