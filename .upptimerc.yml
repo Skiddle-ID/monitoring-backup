@@ -6,8 +6,8 @@ sites:
   - name: Main Website
     url: https://skiddle.id
   - name: Plex Media Server
-    url: https://25950.skiddle.id
-    port: 80
+    url: http://88.99.217.2
+    port: 42426
   - name: Socialize (Mastodon Instance)
     url: https://socialize.cyou    
 
