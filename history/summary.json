@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/skiddle.id",
     "slug": "main-website",
     "status": "up",
-    "uptime": "92.34%",
+    "uptime": "92.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "92.34%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "92.45%",
     "time": 275,
     "timeDay": 1293,
     "timeWeek": 337,
@@ -47,7 +47,7 @@
     "url": "https://socialize.cyou",
     "icon": "https://favicons.githubusercontent.com/socialize.cyou",
     "slug": "socialize-mastodon-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 867,
     "timeMonth": 885,
     "timeYear": 885,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   }
 ]
