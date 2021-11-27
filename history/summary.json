@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/skiddle.id",
     "slug": "main-website",
     "status": "up",
-    "uptime": "94.60%",
+    "uptime": "94.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.98%",
-    "uptimeYear": "94.60%",
+    "uptimeYear": "94.61%",
     "time": 224,
     "timeDay": 167,
     "timeWeek": 154,
@@ -96,17 +96,19 @@
     "url": "https://postal.skiddle.id",
     "icon": "https://favicons.githubusercontent.com/postal.skiddle.id",
     "slug": "mail-system",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 791,
     "timeDay": 771,
     "timeWeek": 791,
     "timeMonth": 791,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 0
+    }
   }
 ]
