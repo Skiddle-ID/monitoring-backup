@@ -8,7 +8,7 @@
     "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.67%",
+    "uptimeMonth": "90.85%",
     "uptimeYear": "95.13%",
     "time": 222,
     "timeDay": 58,
@@ -96,9 +96,9 @@
     "url": "https://postal.skiddle.id",
     "icon": "https://favicons.githubusercontent.com/postal.skiddle.id",
     "slug": "mail-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -108,6 +108,7 @@
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2021-12-09": 0,
       "2021-11-27": 31
     }
   }
