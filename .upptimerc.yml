@@ -31,8 +31,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 commitMessages:
-  commitAuthorName: " Natasha Chen"
-  commitAuthorEmail: "natasha@arcestia.com"
+  commitAuthorName: "Laurensius Jeffrey"
+  commitAuthorEmail: "vrusolik@gmail.com"
       
 workflowSchedule:
   graphs: "0 0 * * *"
