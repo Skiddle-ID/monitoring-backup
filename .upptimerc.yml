@@ -11,6 +11,8 @@ sites:
     url: https://automate.skiddle.id
   - name: Mail System
     url: https://skiddle.id
+  - name: Wordpress Blog
+    url: https://skiddle.my.id  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
