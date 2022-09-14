@@ -7,8 +7,6 @@ sites:
     url: https://skiddle.id
   - name: Private Mastodon (chat.skiddle.id)
     url: https://chat.skiddle.id
-  - name: n8n (Workflow Services)
-    url: https://automate.skiddle.id
   - name: Mail System
     url: https://skiddle.id
   - name: Wordpress Blog
