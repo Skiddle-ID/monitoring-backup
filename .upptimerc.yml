@@ -12,7 +12,11 @@ sites:
   - name: Mail System
     url: https://skiddle.id
   - name: Wordpress Blog
-    url: https://skiddle.my.id  
+    url: https://skiddle.my.id
+  - name: Skiddle Network
+    url: https://skiddle.network
+  - name: Skiddle Network Gateway
+    url: https://skiddle.cloudflareaccess.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
