@@ -7,6 +7,11 @@ sites:
     url: https://skiddle.id
   - name: Private Mastodon (chat.skiddle.id)
     url: https://chat.skiddle.id
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 503
   - name: Mail System
     url: https://skiddle.id
   - name: Wordpress Blog
