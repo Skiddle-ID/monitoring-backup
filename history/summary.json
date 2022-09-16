@@ -32,19 +32,17 @@
     "icon": "https://favicons.githubusercontent.com/wiki.skiddle.id",
     "slug": "private-wiki-wiki-skiddle-id",
     "status": "up",
-    "uptime": "2.69%",
-    "uptimeDay": "2.69%",
-    "uptimeWeek": "2.69%",
-    "uptimeMonth": "2.69%",
-    "uptimeYear": "2.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 279,
     "timeDay": 279,
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {
-      "2022-09-16": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Private Mastodon (chat.skiddle.id)",
