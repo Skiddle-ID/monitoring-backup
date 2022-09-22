@@ -30,7 +30,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Skiddle Status Monitoring
-  introTitle: "**Skiddle-ID** is Formerly known as Arcestia. "
+  introTitle: "**Skiddle-ID** current network status. "
   introMessage: This page for Monitoring status of all Skiddle-ID Network.
   navbar:
     - title: Status
