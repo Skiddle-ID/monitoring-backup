@@ -22,6 +22,9 @@ sites:
     url: https://skiddle.network
   - name: Skiddle Network Gateway
     url: https://skiddle.cloudflareaccess.com/
+  - name: Testing API
+    url: https://api.skiddle.id
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
